@@ -73,8 +73,8 @@ public class MainActivity extends AppCompatActivity {
             }
             // Recreate the activity for the theme change to take effect.
             recreate();
-
-    }   return true;
+        }
+     return true;
     }
     public void decreaseScore(View view) {
         // Get the ID of the button that was clicked
